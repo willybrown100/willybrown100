@@ -10,7 +10,7 @@
 
 - 🤝I specialize in state management and data fetching architecture using Redux and TanStack React Query.
 
-- 💬 Ask me about **React,React native**
+- 💬 Ask me about React Native performance optimization, cross-platform architecture, and state management workflows.
 
 - 📫 How to reach me **williamsgoddey11@gmail.com**
 
